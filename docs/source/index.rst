@@ -5,6 +5,7 @@ QNAP Technical Add-on for Splunk
    :maxdepth: 2
    :caption: Contents:
 
+   issues
    requirements
    installation
    support
