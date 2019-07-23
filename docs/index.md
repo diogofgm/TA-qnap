@@ -1,2 +1,2 @@
-QNAP Technical Add-on for Splunk
-================================
+# QNAP Technical Add-on for Splunk
+
