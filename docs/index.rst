@@ -1,5 +1,5 @@
-QNAP Technical Add-on for Splunk
-================================
+QNAP Add-on for Splunk
+--------------------------------
 
 .. toctree::
    :maxdepth: 2
