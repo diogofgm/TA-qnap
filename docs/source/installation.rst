@@ -78,7 +78,7 @@ For a walkthrough of the installation procedure, follow the link that matches yo
 
 
 
-.. _Splunkbase: https://splunkbase.splunk.com/app/0000/
+.. _Splunkbase: https://splunkbase.splunk.com/app/4632/
 .. _Where to install Splunk add-ons: http://docs.splunk.com/Documentation/AddOns/released/Overview/Wheretoinstall
 .. _Installing add-ons: http://docs.splunk.com/Documentation/AddOns/released/Overview/Installingadd-ons
 
