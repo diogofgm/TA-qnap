@@ -1,6 +1,6 @@
 QNAP Add-on for Splunk
 ================================
-|appinspect-status| |docs|
+|appinspect-status| |docs| |liberapay|
 
 
 Documentation
@@ -17,3 +17,8 @@ https://ta-qnap.readthedocs.io/en/latest/
     :alt: documentation status
     :scale: 100%
     :target: https://readthedocs.org/projects/ta-qnap/badge/?version=latest 
+
+.. |liberapay| image:: https://img.shields.io/liberapay/goal/diogofgm.svg?logo=liberapay
+    :alt: liberapay
+    :scale: 100%
+    :target: https://liberapay.com/diogofgm/donate
