@@ -18,7 +18,7 @@ https://ta-qnap.readthedocs.io/en/latest/
     :scale: 100%
     :target: https://readthedocs.org/projects/ta-qnap/badge/?version=latest 
 
-.. |liberapay| image:: https://img.shields.io/liberapay/goal/diogofgm.svg?logo=liberapay
+.. |liberapay| image:: https://img.shields.io/liberapay/patrons/diogofgm.svg?logo=liberapay
     :alt: liberapay
     :scale: 100%
     :target: https://liberapay.com/diogofgm/donate
