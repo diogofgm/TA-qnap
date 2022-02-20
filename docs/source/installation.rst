@@ -12,17 +12,17 @@ Install the QNAP Add-on for Splunk
 
 Distributed deployments
 -----------------------
-Reference the tables below to determine where and how to install this add-on in a distributed deployment of Splunk Enterprise or any deployment for which you are using forwarders to get your data in. Depending on your environment, your preferences, and the requirements of the add-on, you may need to install the add-on in multiple places. 
+Reference the tables below to determine where and how to install this add-on in a distributed deployment of Splunk Enterprise or any deployment for which you are using forwarders to get your data in. Depending on your environment, your preferences, and the requirements of the add-on, you may need to install the add-on in multiple places.
 
 Where to install this add-on
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Unless otherwise noted, all supported add-ons can be safely installed to all tiers of a distributed Splunk platform deployment. See `Where to install Splunk add-ons`_ in Splunk Add-ons for more information.
 
-This table provides a reference for installing this specific add-on to a distributed deployment of Splunk Enterprise. 
+This table provides a reference for installing this specific add-on to a distributed deployment of Splunk Enterprise.
 
 .. list-table::
    :header-rows: 1
-   
+
    * - Splunk platform component
      - Supported
      - Required
@@ -51,7 +51,7 @@ This table provides a quick reference for the compatibility of this add-on with 
 
 .. list-table::
    :header-rows: 1
-   
+
    * - Distributed deployment feature
      - Supported
      - Comments
@@ -60,16 +60,16 @@ This table provides a quick reference for the compatibility of this add-on with 
      - You can install this add-on on a search head cluster for all search-time functionality.
    * - Indexer Clusters
      - Yes
-     - 
+     -
    * - Deployment Server
      - Yes
      - Supported for deploying via Deployment server
-     
+
 
 Installation walkthroughs
 -------------------------
 The Splunk Add-Ons manual includes an `Installing add-ons`_ guide that helps you successfully install any add-on to your Splunk platform.
-For a walkthrough of the installation procedure, follow the link that matches your deployment scenario: 
+For a walkthrough of the installation procedure, follow the link that matches your deployment scenario:
 
 - `Single-instance Splunk Enterprise`_
 - `Distributed Splunk Enterprise`_
