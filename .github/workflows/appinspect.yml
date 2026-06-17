@@ -76,7 +76,7 @@ jobs:
           - "splunk_appinspect"
     steps:
       - name: Get AppInspect CLI
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v8
         with:
           name: package-splunkbase
           path: dist
