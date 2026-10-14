@@ -18,4 +18,4 @@ on:
 
 jobs:
    build:
-     uses: diogofgm/splunk-appinspect-action/.github/workflows/splunk-appinspect-action.yaml@v0.0.2
+     uses: diogofgm/splunk-appinspect-action/.github/workflows/splunk-appinspect-action.yaml@v0.0.3
