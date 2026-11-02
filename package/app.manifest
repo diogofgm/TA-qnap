@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "QNAP Add-on for Splunk",
+    "id": {
+      "group": null,
+      "name": "TA-qnap",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "Diogo Silva",
+        "email": "diogo.silva@homeostase.pt",
+        "company": "Homeostase"
+      }
+    ],
+    "releaseDate": null,
+    "description": "QNAP Add-on for Splunk",
+    "classification": {
+      "intendedAudience": "IT",
+      "categories": [
+        "Security, Fraud & Compliance",
+        "IT Operations"
+      ],
+      "developmentStatus": "Production/Stable"
+    },
+    "commonInformationModels": {
+      "Authentication": ">=4.0.0,<=4.15.0",
+      "Change Analysis": ">=4.0.0,<=4.15.0",
+      "Change": ">=4.12.0,<=4.15.0",
+      "Databases": ">=4.0.0,<=4.15.0",
+      "Network Traffic": ">=4.0.0,<=4.15.0",
+      "Intrusion Detection": ">=4.0.0,<=4.15.0"
+    },
+    "license": {
+      "name": "Apache License, Version 2.0",
+      "text": "LICENSE",
+      "uri": "http://www.apache.org/licenses/LICENSE-2.0"
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": "README",
+      "text": "README",
+      "uri": "https://diogofgm.github.io/TA-qnap/releasenotes.html"
+    }
+  },
+  "dependencies": null,
+  "tasks": null,
+  "inputGroups": null,
+  "incompatibleApps": null,
+  "platformRequirements": null,
+  "supportedDeployments": [
+    "*"
+  ],
+  "targetWorkloads": [
+    "*"
+  ]
+}
